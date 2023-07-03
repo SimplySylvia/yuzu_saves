@@ -1,0 +1,341 @@
+{
+    "isEmptyData": true,
+    "characterName": "",
+    "dogName": "",
+    "dayCount": 0,
+    "gold": 0,
+    "wood": 0,
+    "stone": 0,
+    "reputation": 0,
+    "canGainTrust": false,
+    "trustPoint": 0,
+    "trustPenalty": 0,
+    "badgeLevel": 0,
+    "diseaseLevel": 0,
+    "blacksmithLevel": 0,
+    "carpenterLevel": 0,
+    "playTime": 0.0,
+    "dayID": 0,
+    "gender": 0,
+    "hairID": 0,
+    "playerInventoryItemData": [],
+    "partTimePoliceStationCount": 0,
+    "partTimePostOfficeCount": 0,
+    "partTimeChurchCount": 0,
+    "playerVendingData": [],
+    "itemLockState": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "mapResourceState": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "fastTravelState": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "potionSaveData": [],
+    "potionLockState": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "keyItemActiveList": [],
+    "researchList": [],
+    "recipeLockState": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "tutorialFlag": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "newMaterialList": [],
+    "newFoodIDList": [],
+    "newPotionIDList": [],
+    "newFishIDList": [],
+    "newNpcIDList": [],
+    "newEnemyIDList": [],
+    "newTutorialIDList": [],
+    "newDiseaseDataList": [],
+    "newQuestDataList": [],
+    "eventStateData": [],
+    "activeQuestList": [],
+    "queueQuestList": [],
+    "questProgressList": [],
+    "targetQuest": {
+        "questState": "",
+        "questID": "",
+        "questName": "",
+        "questInfoDetail": "",
+        "questBoardID": "",
+        "questActive": false,
+        "isBypassReport": false,
+        "isOverridePosition": false,
+        "generateRequirement": false,
+        "updateQuest": false,
+        "dayDelay": 0,
+        "questPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "questFieldID": "",
+        "questDialogList": [],
+        "questRequirementText": [],
+        "questRequirementCheckerList": [],
+        "questReqType": "",
+        "questKillReq": {
+            "questBoardID": "",
+            "CURRENT_KILL_MONSTER": [],
+            "TARGET_KILL_MONSTER": []
+        },
+        "questCollectReq": {
+            "questBoardID": "",
+            "TARGET_COLLECT_ITEM": []
+        },
+        "questTalkReq": {
+            "questBoardID": "",
+            "CURRENT_TALK_WITH_NPC": [],
+            "TARGET_TALK_WITH_NPC": [],
+            "DIALOG_TALK_WITH_NPC": []
+        },
+        "questEventReq": {
+            "questBoardID": "",
+            "CURRENT_EVENT_TRIGGERED": [],
+            "TARGET_EVENT_TRIGGERED": []
+        },
+        "questProgressReq": {
+            "questBoardID": "",
+            "CURRENT_FP_COUNT": 0,
+            "CURRENT_TOWN_UPGRADE_COUNT": 0,
+            "CURRENT_CAULDRON_LEVEL": 0,
+            "CURRENT_EVENT_TAG_COUNT": 0,
+            "TARGET_FP_COUNT": 0,
+            "TARGET_FP_LEVEL": 0,
+            "TARGET_CAULDRON_LEVEL": 0,
+            "TARGET_TOWN_UPGRADE_COUNT": 0,
+            "TARGET_EVENT_TAG": "",
+            "TARGET_EVENT_TAG_COUNT": 0
+        },
+        "questDeliveryReq": {
+            "questBoardID": "",
+            "CURRENT_DELIVERY": [],
+            "TARGET_DELIVERY": []
+        },
+        "questPostCompleteData": {
+            "completeID": "",
+            "commandUI": "",
+            "increaseFP": false,
+            "getItem": false,
+            "activeEvent": false,
+            "activeQuest": false,
+            "activeObject": false,
+            "playerStat": false,
+            "badgeLevelUp": false,
+            "reputationLevelUp": false,
+            "getWood": 0,
+            "getStone": 0,
+            "repeatEvent": false,
+            "cameraFieldConfiner": 0,
+            "goldReward": 0,
+            "chainEventDetail": 0,
+            "questEventDetail": 0,
+            "FriendshipPointStackings": [],
+            "ItemDetailList": [],
+            "ActiveQuestIDStackings": [],
+            "AssignQuestIDStackings": [],
+            "ActiveEventDetailList": [],
+            "ProgressionObjDataList": []
+        },
+        "questPreCompleteData": {
+            "completeID": "",
+            "commandUI": "",
+            "increaseFP": false,
+            "getItem": false,
+            "activeEvent": false,
+            "activeQuest": false,
+            "activeObject": false,
+            "playerStat": false,
+            "badgeLevelUp": false,
+            "reputationLevelUp": false,
+            "getWood": 0,
+            "getStone": 0,
+            "repeatEvent": false,
+            "cameraFieldConfiner": 0,
+            "goldReward": 0,
+            "chainEventDetail": 0,
+            "questEventDetail": 0,
+            "FriendshipPointStackings": [],
+            "ItemDetailList": [],
+            "ActiveQuestIDStackings": [],
+            "AssignQuestIDStackings": [],
+            "ActiveEventDetailList": [],
+            "ProgressionObjDataList": []
+        },
+        "initialize": false
+    },
+    "targetQuestID": 0,
+    "npcFPDataList": [],
+    "npcHealthDataList": [],
+    "roomEditorData": [],
+    "diseaseDay": 7,
+    "diseaseDayCounterSudden": 0,
+    "diseaseCounter": 0,
+    "activeDiseaseList": [],
+    "triggerDiseaseDict": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "diseasePatternList": {
+        "upgradeLevel": 0,
+        "pattern": []
+    },
+    "isFirstDisease": false,
+    "progressionObjDataList": [],
+    "capsuleDict": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "statusUpgradeList": [],
+    "upgradeDataDict": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "skinColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "hairColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "eyesColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "clothColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "capeColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "skinLockStateList": [],
+    "hairLockStateList": [],
+    "eyesLockStateList": [],
+    "clothLockStateList": [],
+    "capeLockStateList": [],
+    "storyTimelineIndex": 0,
+    "enemySlainDatas": [],
+    "enemyQuestDatas": [],
+    "resourcesRecords": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "fishRecordList": [],
+    "fishExpDict": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    },
+    "petDogieFP": 0,
+    "campBedList": [],
+    "achievementDict": {
+        "reorderableList": {},
+        "reqReferences": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "isExpanded": false,
+        "_keyValues": [],
+        "_keys": [],
+        "_values": []
+    }
+}

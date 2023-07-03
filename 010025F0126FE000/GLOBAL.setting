@@ -1,0 +1,11 @@
+{
+    "MASTER_VOLUME": 10,
+    "AMBIENCE_VOLUME": 8,
+    "BGM_VOLUME": 8,
+    "SFX_VOLUME": 8,
+    "RESOLUTION_ID": 0,
+    "VYSNC": 1,
+    "LANGUAGE_ID": 0,
+    "KEYBOARD_CURRENT_CONTROL": 0,
+    "FULLSCREEN": 1
+}
